@@ -25,12 +25,12 @@ Follow these steps to set up and update the project:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/rozalyne/livescoreball.git
+    git clone https://github.com/saldeww/skor-bola-saldiii
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd livescoreball
+    cd skor-bola-saldiii
     ```
 3. Check for outdated dependencies:
     ```sh
